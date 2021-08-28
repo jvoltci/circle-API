@@ -1,6 +1,6 @@
 # CircleApi
 
-The circle is an assignment using the Django framework in Python and React with Material-UI.
+The [circle](https://jvoltci.github.io/circle) is an assignment using the Django framework in Python and React with Material-UI.
 
 [Circle Repo](https://github.com/jvoltci/circle) here
 
